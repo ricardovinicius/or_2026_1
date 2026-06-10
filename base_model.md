@@ -4,13 +4,13 @@
 
 What the model needs to decide? (e.g. quantity of products to fabricate, routes to choose)
 
-## 2. Function Objective
+## 2. Objective Function
 
 What do you want to optimize? The classical structure goals to maximize or minimize a value, like:
 
 $ \max{Z} = \sum_{j = 1}^{n} c_jx_j$
 
-## 3. Restrictions
+## 3. Constraints
 
 What are the physical, logic, or business limits of your problem?
 
