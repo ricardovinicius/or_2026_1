@@ -1,0 +1,13 @@
+Starting ILS for Bin Packing...
+Items: 10 | Time Limit: 10s
+
+Initial Best Bins: 5
+
+=== ILS Finished ===
+Total Iterations: 4588551
+Final Minimum Bins: 5
+Bin 1: Item 1 (weight: 0.5) Item 2 (weight: 0.5) 
+Bin 2: Item 3 (weight: 0.8) Item 4 (weight: 0.2) 
+Bin 3: Item 5 (weight: 0.4) Item 6 (weight: 0.4) Item 7 (weight: 0.2) 
+Bin 4: Item 8 (weight: 0.7) Item 10 (weight: 0.3) 
+Bin 5: Item 9 (weight: 0.6) 

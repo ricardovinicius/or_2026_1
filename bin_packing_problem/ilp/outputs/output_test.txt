@@ -1,0 +1,8 @@
+Number of items: 10
+Results:
+Optimal number of bins used: 5
+Bin 1: Item 1 (weight: 0.5) Item 2 (weight: 0.5) 
+Bin 2: Item 4 (weight: 0.2) Item 6 (weight: 0.4) Item 10 (weight: 0.3) 
+Bin 3: Item 3 (weight: 0.8) 
+Bin 4: Item 5 (weight: 0.4) Item 9 (weight: 0.6) 
+Bin 5: Item 7 (weight: 0.2) Item 8 (weight: 0.7) 
